@@ -1,0 +1,21 @@
+/**
+ * Posts
+ */
+
+.post-container{
+	min-height: 80vh;
+}
+
+.post-header {
+    margin-bottom: $spacing-unit;
+}
+
+.post-title {
+    letter-spacing: -1px;
+    line-height: 1;
+    font-weight: bold;
+}
+
+.post-content {
+    margin-bottom: $spacing-unit;
+}

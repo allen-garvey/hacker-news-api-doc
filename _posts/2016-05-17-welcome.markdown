@@ -1,0 +1,9 @@
+---
+title:  "Welcome"
+date:   2016-05-16 13:01:19 -0400
+---
+This guide will show you the basics of how to use the [official Hacker News API.](https://github.com/HackerNews/API)
+
+## What is Hacker News?
+
+[Hacker News](http://news.ycombinator.com) is a Reddit-like news site for technology and startup news, run by [Y Combinator,](https://www.ycombinator.com/) a Silicon Valley based startup incubator. Using the API, you can create your own clone site, analyze user or story data, create data visualizations, and more! Let's get started.
