@@ -2,7 +2,7 @@
 title:  "Welcome"
 date:   2016-05-16 13:01:19 -0400
 ---
-This guide will show you the basics of how to use the [official Hacker News API.](https://github.com/HackerNews/API)
+This guide will show you the basics of how to use version 0 of the [official Hacker News API.](https://github.com/HackerNews/API)
 
 ## What is Hacker News?
 

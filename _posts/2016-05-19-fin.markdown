@@ -1,0 +1,5 @@
+---
+title:  "Fin"
+date:   2016-05-19 20:01:19 -0400
+---
+That's it! You now know enough make most basic projects using the Hacker News API, whether that means analyzing all stories for trends, or making your very own clone site. Putting it all together, [here's a complete example site](http://hnews.co) I've created using the lessons in this tutorial. Now you go make something!
