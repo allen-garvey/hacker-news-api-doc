@@ -6,4 +6,4 @@ This guide will show you the basics of how to use version 0 of the [official Hac
 
 ## What is Hacker News?
 
-[Hacker News](http://news.ycombinator.com) is a Reddit-like news site for technology and startup news, run by [Y Combinator,](https://www.ycombinator.com/) a Silicon Valley based startup incubator. Using the API, you can create your own clone site, analyze user or story data, create data visualizations, and more! Let's get started.
+[Hacker News](http://news.ycombinator.com) is a Reddit-like news site for computer science, software development, technology and startup news, run by [Y Combinator,](https://www.ycombinator.com/) a Silicon Valley based startup incubator. Using the API, you can create your own clone site, analyze user or story data, create data visualizations, and more! Let's get started.
