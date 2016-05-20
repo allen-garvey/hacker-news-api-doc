@@ -2,4 +2,4 @@
 title:  "What's an API?"
 date:   2016-05-16 17:01:19 -0400
 ---
-Second thing
+API stands for Application Programming Interface. It means that it is a series of tools that allows you to control a piece of software programmatically (thorough code). An example might be using Visual Basic to perform calculations for you in an Excel spreadsheet or using AppleScript to automate tasks on your Mac. The Hacker News API is a REST API. REST stands for Representational State Transfer, and is an architectural style used mainly for web APIs that means that the API is interacted with through requests to urls. The Hacker News API only exposes GET functionality, meaning that you can only retrieve data from it, but in a full REST API you are also able to create, update and delete data using the API, through GET, POST and PUT/PATCH requests.
