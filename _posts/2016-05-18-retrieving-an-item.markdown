@@ -26,5 +26,4 @@ function getItem(itemId, callback){
         callback(item);
     });	
 }
-
 {% endhighlight %}
