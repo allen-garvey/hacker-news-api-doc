@@ -19,7 +19,7 @@ future: true
 
 # Build settings
 markdown: kramdown
-permalink: :slug
+permalink: /:slug
 
 defaults:
   -
