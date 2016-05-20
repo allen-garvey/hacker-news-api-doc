@@ -19,6 +19,7 @@ future: true
 
 # Build settings
 markdown: kramdown
+permalink: :title
 
 defaults:
   -
