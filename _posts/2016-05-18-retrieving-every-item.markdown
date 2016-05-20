@@ -28,7 +28,7 @@ function addItem(item, length){
     }
     //items are done downloading
     //filter items we want, in this case stories
-    items.filter(function(item){ return item.type === 'story'; });
+    items = items.filter(function(item){ return item.type === 'story'; });
     //do whatever you want with the items here
     console.log(items);
 }
