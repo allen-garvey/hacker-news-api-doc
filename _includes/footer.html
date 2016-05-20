@@ -3,3 +3,11 @@
 		Not affiliated with Hacker News or Y Combinator. Created by Allen Garvey. <a href="{{site.repo_url}}">View source on GitHub
     </div>
 </footer>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
+<script>
+	$('a').each(function(index, el) {
+		if(!el.href.match(/hacker-news-api-doc/)){
+			el.href = el.href.replace(/allen-garvey.github.io/, 'allen-garvey.github.io/hacker-news-api-doc')
+		}
+	});
+</script>
