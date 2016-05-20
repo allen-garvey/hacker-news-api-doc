@@ -13,3 +13,5 @@ If you're unclear on these topics, you can learn more at:
 * [JavaScript Basics (Eloquent JavaScript)](http://eloquentjavascript.net/)
 * [JSON basics](http://www.elated.com/articles/json-basics/)
 * [jQuery.get() Documentation](https://api.jquery.com/jquery.get/)
+
+This guide also assumes that you know how to display data by inserting it into the DOM, so examples will only show how to actually retrieve data.
