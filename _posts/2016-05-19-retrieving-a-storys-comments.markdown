@@ -21,9 +21,9 @@ var commentsToGet = 0;
 function getComments(commentIds, commentContainer, doneCallback){
     for(var i=0;i<commentIds.length;i++){
         getItem(commentIds[i], function(item){
-            commentContainer.push(item);
             item.comments = [];
             getComments(item.kids, item.comments, doneCallback);
+            commentContainer.push(item);
         });
     }
     commentsToGet--;
